@@ -2,8 +2,9 @@
 
 <h4>Creating a Simple REST API</h4>
 
-
+<b> Using Arrays </b> <br>
 ![Screenshot (55)](https://user-images.githubusercontent.com/68220442/88169986-82a14d00-cc3a-11ea-9262-9522a656fae0.png)
+<b> Using Linked List </b> <br>
 ![Screenshot (54)](https://user-images.githubusercontent.com/68220442/88169990-846b1080-cc3a-11ea-8bd4-8ae0e154a244.png)
 
 

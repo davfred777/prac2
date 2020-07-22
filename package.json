@@ -1,0 +1,23 @@
+{
+  "name": "sit725-prac2",
+  "version": "1.0.0",
+  "description": "Practicals 2: REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davfred777/sit725-prac2.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davfred777/sit725-prac2/issues"
+  },
+  "homepage": "https://github.com/davfred777/sit725-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}

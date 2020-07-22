@@ -1,10 +1,11 @@
 # PRAC 2
 
 <h4>Creating a Simple REST API</h4>
-<b> USED ARRAYS</b> 
-![Screenshot (55)](https://user-images.githubusercontent.com/68220442/88168634-54bb0900-cc38-11ea-8a52-67e2793daeb0.png)
-<b> USED LINKED LIST</b>
-![Screenshot (54)](https://user-images.githubusercontent.com/68220442/88168644-571d6300-cc38-11ea-9009-8497714501d5.png)
+
+
+![Screenshot (55)](https://user-images.githubusercontent.com/68220442/88169986-82a14d00-cc3a-11ea-9262-9522a656fae0.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/68220442/88169990-846b1080-cc3a-11ea-8bd4-8ae0e154a244.png)
+
 
 <h6> WHY LINKED LIST OVER AN ARRAY?? </h6>
 <p>Reason for using linked list instead of Array is because,
@@ -17,3 +18,5 @@
   
   <b> BY</b> <br>
   <b> David Frederick Gonthi </b>
+
+

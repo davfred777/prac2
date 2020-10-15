@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+app.use(express.static('build'));
 
 //Storing data in Array
 let accounts = [
@@ -7,11 +8,24 @@ let accounts = [
     {id:2,name:'Sarah',deposit:5},
     {id:3,name:'Jim',deposit:15}
 ]
+/*app.get('/',function(req,res)
+{
+    res.send(accounts[0]);
+})*/
+
 
 //Retrieving the data from Array
-app.get('/',function(req,res)
+app.get('/Alex',function(req,res)
+{
+    res.send(accounts[0]);
+})
+app.get('/Sarah',function(req,res)
 {
     res.send(accounts);
+})
+app.get('/Jim',function(req,res)
+{
+    res.send(accounts[2]);
 })
 
 //Declaration of simple Linked List
